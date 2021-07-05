@@ -2,4 +2,5 @@
 
 A collection of sketches:
 
+- [Squares](/squares/index.html)
 - [Floral Pattern 1](/floral-pattern-001/index.html)
