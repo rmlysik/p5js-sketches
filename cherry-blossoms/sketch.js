@@ -20,7 +20,7 @@ function setup() {
 
 function draw() {
   
-  let backgroundColor = color('plum');
+  let backgroundColor = color('rosybrown');
   let foregroundColor = color('white');
   let petalLength = LARGE_BLOSSOM;
   let initialRotationAngle = 0;
