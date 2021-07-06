@@ -1,7 +1,5 @@
-# P5.JS Sketches
+A collection of sketches created with P5.js:
 
-A collection of sketches:
-
-- [Squares](/squares/index.html)
-- [Floral Pattern 1](/floral-pattern-001/index.html)
-- [Cherry Blossoms](/cherry-blossoms/index.html)
+- [Squares](/squares/)
+- [Floral Pattern](/floral-pattern-001/)
+- [Cherry Blossoms](/cherry-blossoms/)
