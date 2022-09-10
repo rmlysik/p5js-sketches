@@ -11,3 +11,6 @@ A collection of sketches created with P5.js:
 
 ![Layers](layers-64x64.png "Layers") 
 [Layers](/p5js-sketches/layers/)
+
+![Circles and Semicircles](circles-and-semi-circles-64x64.png "Circles and Semicircles") 
+[Circles and Semicircles](/p5js-sketches/circles-and-semi-circles/)
