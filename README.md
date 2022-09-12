@@ -14,3 +14,6 @@ A collection of sketches created with P5.js:
 
 ![Circles and Semicircles](circles-and-semi-circles-64x64.png "Circles and Semicircles") 
 [Circles and Semicircles](/p5js-sketches/circles-and-semi-circles/)
+
+![Triangle Panels](triangle-panels.png "Triangle Panels")
+[Triangle Panels](/p5js-sketches/triangle-panels/)
